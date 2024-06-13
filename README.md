@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (soon) [https://okanguc.github.io/Portfolio/](https://okanguc.github.io/Portfolio/)
 
-- 💬 Ask me about **JAVA,React Native**
+- 💬 Ask me about **JAVA,App dev**
 
 - 📫 How to reach me **okano.gucuko@gmail.com**
 
