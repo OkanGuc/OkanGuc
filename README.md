@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **okano.gucuko@gmail.com**
 
-- ⚡ Fun fact **I think i am a sun =D and best one piece fan **
+- ⚡ Fun fact **I think i am best one piece fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
