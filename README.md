@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fas-Cars App**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at (soon) [https://okanguc.github.io/Portfolio/](https://okanguc.github.io/Portfolio/)
 
