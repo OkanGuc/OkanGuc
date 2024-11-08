@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Fas-Cars App**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at (soon) [https://okanguc.github.io/Portfolio/](https://okanguc.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at  https://okan-guc-portfolio.netlify.app/
 
-- 💬 Ask me about **JAVA,App dev**
+- 💬 Ask me about **App dev**
 
 - 📫 How to reach me **okano.gucuko@gmail.com**
 
