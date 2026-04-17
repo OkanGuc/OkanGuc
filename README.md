@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Okan</h1>
 <h3 align="center">A passionate app developer from France</h3>
 
-- 🔭 I’m currently working on **Fas-Cars App**
+- 🔭 I’m currently working on **React app**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at  https://okan-guc-portfolio.netlify.app/
 
